@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5fcdd4</color>
+    <color name="colorPrimaryDark">#1c9da6</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="login_sign_in_bt">#5a5676</color>
+    <color name="login_sign_in_bt_translucent">#905a5676</color>
+
+    <color name="loginBackground">#00bcd4</color>
+    <color name="buttonBackground">#f2fe71</color>
+    <color name="black">#000000</color>
+    <color name="gray">#fda9a4a4</color>
+    <color name="dark_gray">#fd666565</color>
+    <color name="red">#ff0000</color>
+    <color name="white">#ffffff</color>
+    <color name="light_green">#20a46b</color>
+    <color name="dark_green">#0a6b1e</color>
+</resources>

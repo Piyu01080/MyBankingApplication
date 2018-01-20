@@ -1,0 +1,26 @@
+<resources>
+    <!--admin-->
+    <string name="app_name">MyBankingApplication</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="reset_fields">Reset Fields</string>
+    <!--create user-->
+    <string name="fullname">Full Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone </string>
+    <string name="address">Address</string>
+    <string name="accountno">Account no</string>
+    <string name="bankname">Bank Name</string>
+    <string name="createuser">Create User</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+</resources>
